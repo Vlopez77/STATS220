@@ -9,4 +9,4 @@
 
 Here you go a ghost to keep you company 
 
-![ghost](https://cdn.pixabay.com/photo/2016/10/16/21/30/halloween-1746354_960_720.jpg) 
+![ghost](https://cdn.dribbble.com/users/1044993/screenshots/13234956/media/e83a3fdf897bcdd4762048aa58c8a68e.png?compress=1&resize=1600x1200&vertical=top)
