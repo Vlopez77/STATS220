@@ -1,0 +1,60 @@
+---
+title: "Creating images with R"
+subtitle: "with a little bit of magick"
+author: "Valentino Lopez"
+output: html_document
+date: "2023-03-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message = FALSE)
+```
+
+## My Meme
+
+My **Meme** is a meme that took inspiration from a basic 4 square format meme but expresses my feelings about the activities that I would like to have been doing instead of all the code that I have been doing recently.
+
+![](Cat_meme.png)
+
+```{r file='meme.R', eval=FALSE}
+    
+```
+
+## My animated GIF
+
+I wanted to create a similar **GIF** as the breathing give in lab 2 with a count down instead of counting to 4 so I created a bomb countdown which was harder to code as I wanted to use a electric clock format of 00:05 but this proved not possible with my **current skill**, the GIF was supposed to be a slow countdown to a more of an *annoying joke*.
+
+![](final_GIF.gif)
+
+```{r file='animation.R',eval=FALSE}
+
+```
+
+##CSS Coding
+
+```{css}
+body {background-color: #5C1BBD}
+
+  @import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+  
+body {
+ font-family: 'Sono', cursive;, 
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Sono&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Orbitron&family=Sono&display=swap');
+  
+p {
+  
+color: #7CBD1B;
+}
+h1 {
+ font-family: 'Orbitron', cursive; color: #7CBD1B;
+}
+
+h2{
+  
+color: #7CBD1B;font-family: 'Orbitron', cursive;
+}
+```
